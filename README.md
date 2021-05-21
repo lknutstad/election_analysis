@@ -29,5 +29,5 @@ The analysis of the election show that:
     - Candidate Dianna DeGette who received 73.8% of the vote and 272,892 total votes
 ## Election Audit Summary
 An election audit program was built to automate reporting of this specific election.  With minor changes to the code, this script could be used to generate a report for any election.  Two changes could be made:
-    - Change county to accept any desired value - to accomodate any subdivision in the data (e.g. country, state, etc).
-    - Change candidate to accept any desired value - to accomodate any person, place, thing running in this election. 
+- Change county to accept any desired value - to accomodate any subdivision in the data (e.g. country, state, etc).
+- Change candidate to accept any desired value - to accomodate any person, place, thing running in this election. 
